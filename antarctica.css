@@ -1,0 +1,23 @@
+html {
+    background-image: url("assets/antarctica.jpeg");
+}
+
+.container {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: space-evenly;
+}
+
+.portals {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+    color:beige;
+}
+
+h2 {
+    text-align: center;
+    color:beige;
+}
